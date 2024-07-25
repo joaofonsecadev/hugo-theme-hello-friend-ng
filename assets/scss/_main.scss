@@ -435,5 +435,11 @@ hr {
 }
 
 .homepage-hero {
-    padding: 0 20px;
+  padding: 0 20px;
+
+  p {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+  }
 }
